@@ -3,4 +3,6 @@
     margin: 0px;
     height: 250px;
     background-color: #ff9e9e;
+    display:flex;
+    align-items:center;
 }
