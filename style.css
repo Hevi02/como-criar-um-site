@@ -1,3 +1,8 @@
 .cabeçalho{
     background-color: #ff9e9e;
+    height: 250px;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
 }
